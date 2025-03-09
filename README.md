@@ -8,9 +8,9 @@ I am a QA Ingener from Russia :ru:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 </div>
 <!--
 **scrvmv/scrvmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
