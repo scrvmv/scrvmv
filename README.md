@@ -3,7 +3,8 @@ My name Daniil !
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNkODBmemt3NDN3bDMzbzd4djNoOTNhNjZjOWl0emt2bnJrbzg4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="200"/>
 </div>
-
+### :ghost: About Me :
+I am a QA Ingener from Russia :ru:
 <!--
 **scrvmv/scrvmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
