@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name Daniil !
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif?cid=ecf05e47j2a3wrcqkx777h9veugkvyr16c7prmx202tqsrjs&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNkODBmemt3NDN3bDMzbzd4djNoOTNhNjZjOWl0emt2bnJrbzg4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="200"/>
 </div>
 
 <!--
